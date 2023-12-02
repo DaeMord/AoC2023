@@ -1,6 +1,5 @@
-#https://adventofcode.com/2015/day/1
+#https://adventofcode.com/2023/day/1
 from AoC import inputData
-from collections import OrderedDict
 import re
 
 dataInput = inputData('data/day01.txt')
