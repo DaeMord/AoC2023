@@ -48,3 +48,7 @@ def printArray(inputArray):
         for y in x:
             print(y,end='')
         print()
+
+def flatten(l):
+    return [item for sublist in l for item in sublist]
+
