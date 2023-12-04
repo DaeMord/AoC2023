@@ -45,8 +45,6 @@ def main():
             finalFinalOutput += finalOutput
             finalOutput = 1
 
-    print(starData)
-
     return finalNum, finalFinalOutput
 
 
